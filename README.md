@@ -1,15 +1,16 @@
-# Subway Passenger Counter
+# Blackjack Game 🎲🃏
 
-This is a simple web app built with HTML, CSS, and JavaScript.
+This is a basic Blackjack card game built with HTML, CSS, and JavaScript.
 
-It is the **first project** from the **Scrimba JavaScript course**, designed to practice basic DOM manipulation and event handling.
+It is the **second project** from the **Scrimba JavaScript course**, designed to help practice arrays, functions, conditionals, and DOM manipulation.
 
 ## Features
 
-- Increment passenger count
-- Save count to a log
-- Reset count after saving
+- Deal two random cards to start
+- Draw a new card with a button
+- Show current cards and total sum
+- Display game messages based on the total
 
 ## How to Use
 
-Visit the app here: [https://ahmed-72.github.io/Subway-Passenger-Counter](https://ahmed-72.github.io/Subway-Passenger-Counter/)
+Visit the game here: [https://ahmed-72.github.io/Blackjack-Casino-Game](https://ahmed-72.github.io/Blackjack-Casino-Game)

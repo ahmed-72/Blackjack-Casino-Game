@@ -3,16 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Subway Passenger Counter</title>
+    <title>Blackjack</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div class="container">
-      <h1>Subway Passenger Counter</h1>
-      <h2 id="count-el">0</h2>
-      <button onclick="increment()">INCREMENT</button>
-      <button onclick="save()">SAVE</button>
-      <p id="save-el">Previous entries:</p>
+      <h1>Blackjack Game</h1>
+      <p id="message-el">Want to play a round?</p>
+      <p id="cards-el">Cards:</p>
+      <p id="sum-el">Sum:</p>
+      <button onclick="startGame()">START GAME</button>
+      <button onclick="newCard()">NEW CARD</button>
     </div>
     <script src="script.js"></script>
   </body>
